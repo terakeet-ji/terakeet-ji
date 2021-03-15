@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jace
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
-- 💞️ I’m not looking to collaborate right now, but maybe in the future
+- 🐍 I’m interested in python
+- 📗 I’m currently learning python
+- 👐 I’m not looking to collaborate right now, but maybe in the future
 - 📫 How to reach me: shoot me an email: jiverson@terakeet.com  
 
 <!---
